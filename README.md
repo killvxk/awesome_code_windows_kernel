@@ -113,6 +113,10 @@ https://github.com/9176324/Shark
 
 https://github.com/sondernextdoor/Poseidon
 
+https://github.com/MellowNight/AetherVisor
+
+https://github.com/zzhouhe/PG1903
+
 https://github.com/MeeSong/MBox
 
 https://github.com/MeeSong/lwIP
