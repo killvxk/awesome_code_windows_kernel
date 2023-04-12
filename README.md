@@ -25,3 +25,19 @@ https://github.com/avakar/vcrtl
 
 https://github.com/gmh5225/Hook-HvlSwitchVirtualAddressSpace
 
+https://github.com/GetRektBoy724/KPDB
+
+https://github.com/gmh5225/FakeEnclave
+
+https://github.com/gmh5225/LetMeGG
+
+https://github.com/KANKOSHEV/NoScreen
+
+https://github.com/btbd/ddma
+
+https://github.com/btbd/access
+
+https://github.com/gmh5225/Hook-KdTrap
+
+https://github.com/gmh5225/Driver-SoulExtraction
+
