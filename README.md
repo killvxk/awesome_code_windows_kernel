@@ -97,3 +97,24 @@ https://github.com/ekknod/EC
 
 https://github.com/ekknod/drvscan
 
+https://github.com/wbaby/DoubleCallBack
+
+https://github.com/MeeSong/KTL
+
+https://github.com/llkbkh/Anti-Rootkit
+
+https://github.com/SamuelTulach/mutante
+
+https://github.com/xtremegamer1/Illicit-memory-allocation
+
+https://github.com/vitoplantamura/BugChecker
+
+https://github.com/9176324/Shark
+
+https://github.com/sondernextdoor/Poseidon
+
+https://github.com/MeeSong/MBox
+
+https://github.com/MeeSong/lwIP
+
+https://github.com/SinaKarvandi/Hypervisor-From-Scratch
