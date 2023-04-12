@@ -18,3 +18,10 @@ https://github.com/can1357/ByePg
 https://github.com/wbenny/hvpp
 
 https://github.com/wbenny/KSOCKET
+
+https://github.com/wbenny/injdrv
+
+https://github.com/avakar/vcrtl
+
+https://github.com/gmh5225/Hook-HvlSwitchVirtualAddressSpace
+
