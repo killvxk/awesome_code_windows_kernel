@@ -125,3 +125,6 @@ https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 
 https://git.back.engineering/gmh5225/kli-ex
 
+https://github.com/AdamOron/PatchGuardBypass
+
+
