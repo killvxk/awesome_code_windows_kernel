@@ -5,6 +5,8 @@ https://github.com/hypervisor/kli
 
 https://github.com/Xyrem/Yumekage
 
+https://github.com/zer0condition/ZeroThreadKernel
+
 https://github.com/1401199262/RemoteCall
 
 https://github.com/can1357/ThePerfectInjector
