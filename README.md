@@ -129,4 +129,10 @@ https://git.back.engineering/gmh5225/kli-ex
 
 https://github.com/AdamOron/PatchGuardBypass
 
+https://github.com/9176324/Daat
+
+https://github.com/Air14/HyperHide
+
+https://github.com/HyperDbg/HyperDbg
+
 
