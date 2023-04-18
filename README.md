@@ -1,7 +1,5 @@
 # awesome_code_windows_kernel
 
-https://github.com/MellowNight/AetherVisor
-
 https://github.com/zwclose/hidusb2
 
 https://github.com/hypervisor/kli
